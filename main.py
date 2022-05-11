@@ -1,6 +1,8 @@
 principal = 200 # Starting amount
 compounds = 0 
 
+testing_changes = 1
+
 while True:
 
     if compounds < 365: #stops the program after 1 year of compounding
